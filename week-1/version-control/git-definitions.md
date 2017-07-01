@@ -17,5 +17,4 @@
 
 * What is a merge conflict?
 
-
 **A merge conflict is when there are competing changes to the same line of code**
